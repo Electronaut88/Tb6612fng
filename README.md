@@ -1,2 +1,1 @@
-# Arduino-Library
-Here are some arduino library created by me 
+This is a Arduino library for TB6612FNG Dual channal motor driver
